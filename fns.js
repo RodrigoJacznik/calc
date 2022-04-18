@@ -16,7 +16,9 @@ function res(a, b) {
     return b - a;
 }
 
-function mul(a, b) {}
+function mul(a, b) {
+    return a * b;
+}
 
 function div(a, b) {}
 
